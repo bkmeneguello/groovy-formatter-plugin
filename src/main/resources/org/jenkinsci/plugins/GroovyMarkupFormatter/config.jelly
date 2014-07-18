@@ -1,0 +1,6 @@
+<j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler" xmlns:d="jelly:define" xmlns:l="/lib/layout" xmlns:t="/lib/hudson" xmlns:f="/lib/form">
+  <f:description>
+    This markup formatter parses Groovy Scripts, with potentially dangerous
+    server side effects. Use with caution.
+  </f:description>
+</j:jelly>
